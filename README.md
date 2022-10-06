@@ -15,8 +15,6 @@ Devan M</a></h1>
 - 🌱 I’m currently engaged on Web Development Bootcamps <a href="https://twitter.com/yu_angela?lang=en" target="blank">The Complete 2022 Web Development Bootcamp
 </a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
 - 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **devan19ct@gmail.com**
