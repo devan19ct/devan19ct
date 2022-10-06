@@ -12,7 +12,7 @@ Devan M</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently engaged on Web Development Bootcamps <a href="https://twitter.com/yu_angela?lang=en" target="blank">The Complete 2022 Web Development Bootcamp
+- 🌱 I’m currently engaged on Web Development Bootcamps <a href="https://twitter.com/yu_angela?lang=en" target="blank">The Complete 2022 Web Development Bootcamp by Angela Yu
 </a>
 
 - 💬 Ask me about **Fullstack Development**
