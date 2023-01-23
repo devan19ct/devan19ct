@@ -35,7 +35,7 @@ Devan M</a></h1>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/DevanM55625256">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://devan19ct.github.io/cv/">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="https://icons8.com/icon/REWqOFWKTiZj/cv" ></a>
       </div>
 
 </p>
@@ -45,6 +45,8 @@ Devan M</a></h1>
 <!-- BLOG-POST-LIST:START -->
 
 - [Raiwil Website](https://raiwil.com/)
+- [Weather App](https://devan19ct.github.io/weather-app/)
+- [Whack a mole game](devan19ct.github.io/whack-a-mole-game/)
 
 <!-- BLOG-POST-LIST:END -->
 
