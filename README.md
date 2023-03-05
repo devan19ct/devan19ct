@@ -33,9 +33,7 @@ Devan M</a></h1>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_mr.coffin/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/DevanM55625256">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		
-      </div>
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a> </div>
 
 </p>
 
