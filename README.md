@@ -7,7 +7,7 @@ Devan M</a></h1>
 </a>
 
 - 🌱 Web Developer Exploring Indie Game Development
-- 
+  
 - 🤝 I’m available for freelancing.
 
 - 🌱 I’m currently engaged on Web Development and Game Development Bootcamps.
