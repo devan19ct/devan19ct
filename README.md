@@ -1,25 +1,22 @@
 <h1 align="center">Hi 👋, I'm <a href="https://devan19ct.github.io/cv/" target="blank">
 Devan M</a></h1>
-<h3 align="center">A guy who is intrested in  Fullstack Development from kerala India &#127470;&#127475</h3>
+<h3 align="center">A Code Enthusiast from kerala India &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently studing in <a href="https://www.luminartechnolab.com" target="blank">Luminar Technolab/</a>
-
-- 🌱 I’m currently Working on  Fullstack Development(MEA(R)N)
-
+- 🌱 Web Developer Exploring Indie Game Development
+- 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently engaged on Web Development Bootcamps <a href="https://twitter.com/yu_angela?lang=en" target="blank">The Complete 2022 Web Development Bootcamp by Angela Yu
-</a>
+- 🌱 I’m currently engaged on Web Development and Game Development Bootcamps.
 
-- 💬 Ask me about **Fullstack Development**
+- 💬 Ask me about **Development & Coding**
 
 - 📫 How to reach me **devan19ct@gmail.com**
 
-- 📄 Know about my experiences <a href="https://devan19ct.github.io/cv/" target="blank">Resume</a>
+- 📄 Check it Out <a href="https://devanm.carrd.co/" target="blank">BIO</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
@@ -42,7 +39,7 @@ Devan M</a></h1>
 <p>
   <h3 align="center">Support:</h3>
   <p>
-    <a href="https://www.buymeacoffee.com/devan201940">
+    <a href="https://ko-fi.com/mr_coffin">
       <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
     </a>
   </p>
